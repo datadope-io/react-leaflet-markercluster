@@ -1,4 +1,4 @@
-import { createPathComponent } from '@react-leaflet/core';
+import { createPathComponent } from '@monsonjeremy/react-leaflet-core';
 import L from 'leaflet';
 
 require('leaflet.markercluster');

@@ -51,12 +51,12 @@
     "@react-leaflet/core": "^1.0.2",
     "leaflet": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
-    "react-leaflet": "^3.0.0"
+    "@monsonjeremy/react-leaflet": "^3.0.0"
   },
   "peerDependencies": {
     "leaflet": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
-    "react-leaflet": "^3.0.0"
+    "@monsonjeremy/react-leaflet": "^3.0.0"
   },
   "husky": {
     "hooks": {
